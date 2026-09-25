@@ -124,7 +124,7 @@ mặt đường; xe ở xa chỉ còn cụm đèn thì vẫn vẽ box theo thân
 
 ## 5. Kết luận và giới hạn
 
-So với cold start, vòng 1 **kém hơn rõ rệt**: AP50 0.771 → 0.382, recall 0.489 → 0.007. Mức giảm này lớn hơn
+So với cold start, vòng 1 **kém hơn rất rõ rệt**: AP50 0.771 → 0.382, recall 0.489 → 0.007. Mức giảm này lớn hơn
 rất nhiều so với ngưỡng nhiễu 0.01 mà `DATA.md` nêu, nên đây là thay đổi thật, không phải dao động của tập
 test nhỏ.
 
