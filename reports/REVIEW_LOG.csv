@@ -1,0 +1,8 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,SUV tối màu bật đèn pha ở giữa mép dưới ảnh (x480-627 y571-719),added,Model bỏ sót; xe bị mép dưới cắt nên chỉ vẽ box cho phần nằm trong ảnh
+1,frame_0099.jpg,sedan đèn pha chói ở làn giữa (x712-813 y412-500),added,Model bỏ sót vì đèn chói; vẽ box theo thân xe đoán được quanh cụm đèn và không tính vệt sáng trên mặt đường
+1,frame_0227.jpg,box model gộp nóc xe tải với xe con bên cạnh (x303-461 y341-411),deleted,Một box trùm hai xe; hai xe đứng sát nhau phải vẽ hai box riêng
+1,frame_0227.jpg,xe tải đèn pha bên trái làn gần (x291-423 -> x317-414),edited,Box cũ quá rộng và lấn sang xe bên cạnh; thu lại ôm sát thân xe tải
+1,frame_0331.jpg,box trùng lặp trên xe con bên trái (x442-557 y391-450 và x489-558 y395-444),deleted,Model vẽ 2 box chồng nhau lệch khỏi thân xe; xóa rồi giữ một box đúng cho mỗi xe
+1,frame_0331.jpg,xe con bật đèn pha ở làn giữa (x641-719 y394-443),added,Model bỏ sót; thân xe nhìn thấy rõ
+1,frame_0369.jpg,xe nhòe do chuyển động bị cắt ở mép dưới phải (x1045-1105 -> x1045-1185),edited,Box cũ chỉ khoanh phần đầu xe sáng; xe nhòe vẫn gán nhãn và box phải ôm cả vùng nhòe của thân xe

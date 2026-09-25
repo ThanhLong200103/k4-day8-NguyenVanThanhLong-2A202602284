@@ -1,8 +1,8 @@
 # Báo cáo Lab Ngày 08: Học chủ động cho bộ phát hiện xe
 
-Họ và tên: ĐIỀN
+Họ và tên: Nguyễn Văn Thành Long
 
-Công cụ gán nhãn đã dùng: ĐIỀN (AnyLabeling, CVAT, SAM hoặc sửa trực tiếp file nhãn)
+Công cụ gán nhãn đã dùng: Cvat (AnyLabeling, CVAT, SAM hoặc sửa trực tiếp file nhãn)
 
 Sao chép file này thành `reports/REPORT.md` rồi điền vào các chỗ ĐIỀN. Mọi con số phải truy được
 từ `reports/rounds_table.md`, `outputs/selection_round1.csv`, `outputs/metrics_round*.json` hoặc
